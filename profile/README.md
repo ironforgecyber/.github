@@ -22,5 +22,5 @@ We're actively building out:
 Want to write a blog post? Want to contribute course content? Feel free to reach out!
 
 - 🌐 [ironforgecyber.com](https://ironforgecyber.com)
-- 📬 Contact: `team@ironforgecyber.com`
+- 📬 Contact: `contact@ironforgecyber.com`
 - 🗨️ Want to contribute or collaborate? Open an issue or reach out directly.
